@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Not about this about sdfsdlf is vue Page</h1>
+    <h1>Not about this about sdfsdf sdfsdlf is vue Page</h1>
   </div>
 </template>
 
