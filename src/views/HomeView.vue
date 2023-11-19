@@ -63,7 +63,7 @@ const deleteTodo = (todoId) => {
           </ul>
           <p class="todo-msg mt-2" v-else >
             <Icon icon="noto-v1:sad-but-relieved-face" color="red" width="30" />
-            <span>You Don't have todo  kk anything to do..!</span>
+            <span>You Don't have todo anything to do..!</span>
             
           </p>
             </div>
